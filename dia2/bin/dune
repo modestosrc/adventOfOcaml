@@ -1,4 +1,0 @@
-(executable
- (public_name dia2)
- (name main)
- (libraries dia2))
